@@ -1,1 +1,3 @@
 Hola  dd
+
+Faig un canvi al fitxer del Master .. trobaré conflicte??
