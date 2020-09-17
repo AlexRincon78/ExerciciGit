@@ -1,7 +1,7 @@
 Hola  dd
 
-<<<<<<< HEAD
+
 Faig un canvi al fitxer del Master .. trobaré conflicte??
-=======
+
 Faig un canvi al fitxer1 del branch1
->>>>>>> branch1
+
